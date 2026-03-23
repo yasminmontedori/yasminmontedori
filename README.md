@@ -1,17 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Yasmin!
 
-<!--
-**yasminmontedori/yasminmontedori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de tecnologia  
+🚀 Aprendendo programação e desenvolvimento  
+📚 Focada em crescer na área de TI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-    
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+
+---
+
+## 📫 Contato
+
+![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)
+
+---
+
+✨ Sempre aprendendo algo novo!    
