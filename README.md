@@ -18,7 +18,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:yasmiin.montedori@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/seu-link)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/seu-link](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
 
 ---
 
