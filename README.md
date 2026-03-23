@@ -16,8 +16,9 @@
 
 ## 📫 Contato
 
-![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:yasmiin.montedori@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/seu-link)
 
 ---
 
