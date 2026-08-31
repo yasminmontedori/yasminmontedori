@@ -1,5 +1,5 @@
 # Olá, eu sou a Yasmin ! 👋
-Focado em aprender novas habilidades e criar soluções eficientes.
+Focada em aprender novas habilidades atraves do Html e Python e criar soluções eficientes.
 
 ---
 
